@@ -1,1 +1,1 @@
-[click me](https://silly-mermaid-bf76ca.netlify.app/)
+[click here to view Project](https://silly-mermaid-bf76ca.netlify.app/)
